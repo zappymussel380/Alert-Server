@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zappymussel380/Alert-Server/issues"
   },
-  "homepage": "https://github.com/zappymussel380/Alert-Server#readme"
+  "homepage": "https://github.com/zappymussel380/Alert-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
